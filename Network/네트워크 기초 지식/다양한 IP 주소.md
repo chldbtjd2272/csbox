@@ -1,13 +1,3 @@
----
-layout: post
-title:  " [네트워크 기초 지식] 여러 가지 IP 주소 "
-date:   2018-06-16
-excerpt: " Various IP  "
-cate : "posts"
-tag:
-- Server
----
-
 
 # 여러 가지 IP 주소
 

@@ -1,13 +1,3 @@
----
-layout: post
-title:  " [네트워크 기초 지식] ARP "
-date:   2018-06-16
-excerpt: " ARP "
-cate : "posts"
-tag:
-- Server
----
-
 # ARP
 
 * MAC 주소는 컴퓨터의 NIC(Network Interface Card)에 새겨져 있는 <b>물리적 주소</b>

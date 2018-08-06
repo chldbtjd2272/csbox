@@ -1,12 +1,3 @@
----
-layout: post
-title:  " [네트워크 기초 지식] OSI 참조 모델과 프로토콜 "
-date:   2018-06-16
-excerpt: " OS Reference Models Protocols "
-cate : "posts"
-tag:
-- Server
----
 
 # 프로토콜 = 통신할 때의 규칙
 
