@@ -45,3 +45,13 @@ else
 그 후는 프레임이 들어올 때마다 MAC 주소 테이블의 정보를 갱신
 더 이상 사용하지 않는 정보는 일정 시간 경과 후 삭제
 ```
+
+
+<br>
+
+
+<img  align="right" width = "30%" height = "30%" src="https://github.com/chldbtjd2272/csbox/tree/master/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/images/switch_1.png" />
+
+
+
+
