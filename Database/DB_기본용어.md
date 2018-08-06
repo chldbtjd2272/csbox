@@ -2,7 +2,7 @@
 
 1. DBMS - 중복성과 *종속성등의 문제를 최소화하기 위해 등장하였으며, 사용자와 데이터베이스 간의 중계 역할을 한다. 데이터베이스의 내용을 정의하고, 조작, 제어할 수 있도록 함으로써 모든 사용자나 응용 프로그램들이 데이터베이스를 공유할 수 있도록 관리 운영해 주는 소프트웨어 시스템을 말한다.
 
-![](/images/dbms.png)
+<img  align="center" width = "100%" height = "100%" src="https://github.com/chldbtjd2272/csbox/blob/master/Database/images/dbms.png" />
 
  - 정의어 : 데이터베이스 구조를 정의, 수정, 삭제 등을 위해 사용되는 언어 (ex CREATE, DROP, ALTER
  - 조작어 : 데이터베이스 내의 자료를 검색, 삽입, 수정, 삭제하기 위해 사용되는 언어 (ex SELECT, INSERT, UPDATE, DELETE
