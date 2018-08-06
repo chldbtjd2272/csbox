@@ -8,7 +8,7 @@
 
 * [예비 개발자들 또는 개발자들의 기술 면접 준비를 위한 자료를 정리해놓은 저장소](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
-* [개발자의 면접 준비를 위해 개념 및 복습을 위한 이론 및 코드입니다.])https://github.com/DaeHeeKim93/DaeHeeKim-Review)
+* [개발자의 면접 준비를 위해 개념 및 복습을 위한 이론 및 코드입니다.](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
 
 * [개발자 역량 평가표](https://github.com/EBvi/dev-matrix)
 
