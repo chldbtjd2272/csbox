@@ -1,3 +1,11 @@
+---
+Writer: 신기용
+Date : 18. 08. 06
+Contact : gy8971@gmail.com
+Blog : https://goodgid.github.io
+---
+
+
 # 이더넷에서 프레임을 만든다.
 
 * 1,2계층에서 필수불가결한 규격이 `이더넷`이다.
