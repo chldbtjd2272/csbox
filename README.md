@@ -1,8 +1,6 @@
 # CSbox입니다.
+
 <img  align="right" width = "30%" height = "30%" src="https://github.com/chldbtjd2272/csbox/blob/master/assets/image/csbox.png" />
-
-
-
 
 ## CS 공부합시다 :+1:
 
