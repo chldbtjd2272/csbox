@@ -2,7 +2,7 @@
 
 ![workflow](https://github.com/chldbtjd2272/csbox/blob/master/assets/image/csbox.png)
 
-<img  align="center" width = "70%" height = "70%" src="https://github.com/chldbtjd2272/csbox/blob/master/assets/image/csbox.png" />
+<img  align="center" width = "30%" height = "30%" src="https://github.com/chldbtjd2272/csbox/blob/master/assets/image/csbox.png" />
 
 
 ## CS 공부합시다 :+1:
