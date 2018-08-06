@@ -1,10 +1,3 @@
----
-Writer: 신기용
-Date : 18. 08. 06
-Contact : gy8971@gmail.com
-Blog : https://goodgid.github.io
----
-
 
 # 이더넷에서 프레임을 만든다.
 
@@ -32,3 +25,14 @@ a8:66:7f:04:00:80 / 00-50-56-c0-00-01
 OUI를 통해 기기의 제조업체를 알 수 있다.
 
 `하위 24비트` : 제조업체 내부에서 기기별로 고유한 값으로 할당한 코드
+
+
+<br>
+
+---
+Writer: 신기용
+Date : 18. 08. 06
+Contact : gy8971@gmail.com
+Blog : https://goodgid.github.io
+---
+
