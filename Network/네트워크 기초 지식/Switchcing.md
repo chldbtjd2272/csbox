@@ -50,7 +50,7 @@ else
 <br>
 
 
-<img  align="right" width = "30%" height = "30%" src="https://github.com/chldbtjd2272/csbox/blob/master/Network/images/switch_1.png" />
+<img  align="center" width = "100%" height = "100%" src="https://github.com/chldbtjd2272/csbox/blob/master/Network/images/switch_1.png" />
 
 
 
