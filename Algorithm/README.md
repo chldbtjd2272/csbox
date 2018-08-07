@@ -10,5 +10,5 @@
 
 # Index
 
-1. [정렬 알고리즘](https://github.com/chldbtjd2272/csbox/tree/master/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D)
+1. [정렬 알고리즘](https://github.com/chldbtjd2272/csbox/tree/master/Algorithm/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
