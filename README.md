@@ -14,6 +14,6 @@
 
 * [주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 
-
+* [개발자를 위한 서버이중화 by JAVACAFE](https://onoffmix.com/event/147910)
 
 
