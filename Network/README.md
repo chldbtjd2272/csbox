@@ -6,6 +6,10 @@
 
 이런 부분들에 대해서는 `Pull Request` or `Issue`를 남겨주시면 정말 감사하겠습니다.
 
+또한 포스팅 글을 읽고 이해가 안될 경우 관련 그림을 보시면 이해가 쉬울 수 있습니다.
+
+그림은 [블로그](https://goodgid.github.io/tags/#Server)에서 보시면 됩니다.
+
 ---
 
 # Index
