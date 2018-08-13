@@ -17,7 +17,7 @@
 
 4. [공개 서버의 기본](https://github.com/chldbtjd2272/csbox/tree/master/Server/%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8)
 
-5. [서버를 장애로부터 보호하기]()
+5. [서버를 장애로부터 보호하기](https://github.com/chldbtjd2272/csbox/tree/master/Server/%EC%84%9C%EB%B2%84%EB%A5%BC%20%EC%9E%A5%EC%95%A0%EB%A1%9C%EB%B6%80%ED%84%B0%20%EB%B3%B4%ED%98%B8%ED%95%98%EA%B8%B0)
 
 6. [서버 보안]()
 
