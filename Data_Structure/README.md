@@ -1,7 +1,7 @@
 # 자료구조
-- 순환
-- 리스트
-- 스택
+- [순환](https://github.com/chldbtjd2272/csbox/blob/master/Data_Structure/%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/%EC%88%9C%ED%99%98.md)
+- [리스트](https://github.com/chldbtjd2272/csbox/blob/master/Data_Structure/%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [스택](https://github.com/chldbtjd2272/csbox/blob/master/Data_Structure/%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/%EC%8A%A4%ED%83%9D.md)
 - 큐
 - 트리
 - 우선순위큐
