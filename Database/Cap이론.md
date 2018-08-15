@@ -24,5 +24,8 @@
     - 노드간에 통신 문제가 생겨서 메시지를 주고받지 못하는 상황이라도 동작해야 한다.
     - Availablity와의 차이점은 Availability는 특정 노드가 “장애”가 발생한 상황에 대한 것이고 Tolerance to network Partitions는 노드의       상태는 정상이지만 네트워크 등의 문제로 서로간의 연결이 끊어진 상황에 대한 것이다
 
+![](https://github.com/chldbtjd2272/csbox/blob/master/Database/images/cap.png)
 
-출처: http://hamait.tistory.com/197 [HAMA 블로그]
+
+
+출처-> http://hamait.tistory.com/197 [HAMA 블로그]
