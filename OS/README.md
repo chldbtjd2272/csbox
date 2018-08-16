@@ -7,6 +7,7 @@
 - [CPU 스케쥴링](https://github.com/chldbtjd2272/csbox/blob/master/OS/%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/CPU%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81.md)
 - [프로세스 동기화](https://github.com/chldbtjd2272/csbox/blob/master/OS/%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94.md)
 - 교착상태
+- 메모리관리
 - 가상메모리
 - 파일시스템 인터페이스
 - 파일시스템 구현
