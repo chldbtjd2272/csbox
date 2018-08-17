@@ -8,6 +8,7 @@
   - 트랜잭션을 지원하는 데이터베이스에서는 발생하면 안 됨
 
 
+
 2. (P1) Dirty Read Problem
 
   - 한 트랜잭션에서 변경한 값을 다른 트랜잭션에서 읽을 때 발생하는 문제
@@ -41,4 +42,9 @@
 
   - Oracle은 이 레벨을 명시적으로 지원하지 않지만 for update절을 이용해 구현 가능,
     SQL Server등에서도 for update 절을 사용할 수 있지만 커서를 명시적으로 선언할 때만 사용 가능함
-
+    
+    
+    
+    
+    
+    ![isolation level에 따른 오류발생](https://github.com/chldbtjd2272/csbox/blob/master/Database/images/Lock%EC%97%86%EB%8A%94.png)
