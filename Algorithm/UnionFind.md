@@ -92,7 +92,7 @@ union :: O(lgN)
 
 
 
-출처: http://www.crocus.co.kr/683 [Crocus]
+참고-> http://www.crocus.co.kr/683 [Crocus]
 
 
 
