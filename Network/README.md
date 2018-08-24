@@ -13,9 +13,9 @@
 
 2. [로컬/와이드 영역 네트워크편](https://github.com/chldbtjd2272/csbox/tree/master/Network/%EB%A1%9C%EC%BB%AC%EC%99%80%EC%9D%B4%EB%93%9C%20%EC%98%81%EC%97%AD%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%8E%B8)
 
-3. [하드웨어편]()
+3. [하드웨어편](https://github.com/chldbtjd2272/csbox/tree/master/Network/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%ED%8E%B8)
 
-4. [서비스 프로토콜편]()
+4. [서비스 프로토콜편](https://github.com/chldbtjd2272/csbox/tree/master/Network/%EC%84%9C%EB%B9%84%EC%8A%A4%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%ED%8E%B8)
 
 5. [인터넷편]()
 
