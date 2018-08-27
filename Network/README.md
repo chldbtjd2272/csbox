@@ -18,5 +18,3 @@
 4. [서비스 프로토콜편](https://github.com/chldbtjd2272/csbox/tree/master/Network/%EC%84%9C%EB%B9%84%EC%8A%A4%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%ED%8E%B8)
 
 5. [인터넷편]()
-
-6. [휴대전화편]()
